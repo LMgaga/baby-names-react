@@ -19,12 +19,12 @@
 
 .boy,
 .girl {
-  background-color: #2980b9;
-  color: #7f8c8d;
+  background-color: #a1d1f0;
+  color: #666b6c;
   padding: 5px 10px;
   font-weight: bold;
 }
 
 .girl {
-  background-color: #fab1a0;
+  background-color: #f6d0ea;
 }
